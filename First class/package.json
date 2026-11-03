@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "node src/index.js",
     "class2": "node src/class2.js",
-    "class3" : "node src/class3.js"
+    "class3" : "node src/class3.js",
+    "class4" : "node src/class4.js"
   },
   "keywords": [],
   "author": "",
